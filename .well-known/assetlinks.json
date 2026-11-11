@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.pocketmuseprototype",
+      "sha256_cert_fingerprints": [
+        "B3:18:8C:3F:63:56:6F:69:13:E7:4B:01:F2:F0:A4:5D:B8:4C:67:C1:C7:A1:54:D9:0D:A4:21:88:44:60:15:F5"
+      ]
+    }
+  }
+]
