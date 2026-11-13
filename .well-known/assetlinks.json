@@ -7,7 +7,8 @@
       "namespace": "android_app",
       "package_name": "com.example.pocketmuseprototype",
       "sha256_cert_fingerprints": [
-        "B3:18:8C:3F:63:56:6F:69:13:E7:4B:01:F2:F0:A4:5D:B8:4C:67:C1:C7:A1:54:D9:0D:A4:21:88:44:60:15:F5"
+        "B3:18:8C:3F:63:56:6F:69:13:E7:4B:01:F2:F0:A4:5D:B8:4C:67:C1:C7:A1:54:D9:0D:A4:21:88:44:60:15:F5",
+        "5E:FC:CD:9C:4D:0D:E2:06:57:DC:AF:0D:47:78:72:FF:B5:07:B4:77:29:21:CE:D0:47:03:E3:CE:7C:D3:52:34"
       ]
     }
   }
